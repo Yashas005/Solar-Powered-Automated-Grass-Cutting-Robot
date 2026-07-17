@@ -3,11 +3,29 @@ An IoT-based solar-powered autonomous grass cutting robot using Raspberry Pi 5, 
 
 Team Project
 
-This was a team project developed as part of our mini project.
+## Technologies Used
 
-My responsibilities included:
-- Raspberry Pi 5 setup and configuration
-- YOLOv5 model setup and integration
-- Software deployment on Raspberry Pi
-- System testing and debugging
-- Hardware-software integrationc
+- Raspberry Pi 5
+- Python
+- OpenCV
+- YOLOv5
+- Flask
+- GPIOZero
+- Picamera2
+
+## Features
+
+- Solar-powered operation
+- Autonomous grass cutting
+- YOLO-based obstacle detection
+- Live camera streaming
+- Web interface for robot control
+- Emergency stop feature
+
+## My Contribution
+
+- Raspberry Pi setup
+- YOLO model configuration
+- Software deployment
+- Testing and debugging
+- Hardware-software integration
