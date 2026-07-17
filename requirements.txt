@@ -1,0 +1,8 @@
+opencv-python
+numpy
+flask
+gpiozero
+picamera2
+ultralytics
+torch
+torchvision
